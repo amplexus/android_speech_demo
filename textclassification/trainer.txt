@@ -1,0 +1,89 @@
+FOREHAND_TOPSPIN_DRILL forehand topspins
+FOREHAND_TOPSPIN_DRILL forehand topspin
+FOREHAND_TOPSPIN_DRILL topspin forehands
+FOREHAND_TOPSPIN_DRILL topspin forehand 
+FOREHAND_SLICE_DRILL forehand slices
+FOREHAND_SLICE_DRILL forehand slice
+FOREHAND_SLICE_DRILL slice forehands
+FOREHAND_SLICE_DRILL slice forehand 
+BACKHAND_TOPSPIN_DRILL backhand topspins
+BACKHAND_TOPSPIN_DRILL backhand topspin
+BACKHAND_TOPSPIN_DRILL topspin backhand
+BACKHAND_TOPSPIN_DRILL topspin backhands
+BACKHAND_SLICE_DRILL backhand slices
+BACKHAND_SLICE_DRILL backhand slice
+BACKHAND_SLICE_DRILL slice backhands
+BACKHAND_SLICE_DRILL slice backhand
+GROUNDSTROKE_DRILL groundstrokes
+GROUNDSTROKE_DRILL groundstroke
+TOPSPIN_GROUNDSTROKE_DRILL topspin groundstrokes
+TOPSPIN_GROUNDSTROKE_DRILL topspin groundstroke
+TOPSPIN_GROUNDSTROKE_DRILL groundstroke topspin
+TOPSPIN_GROUNDSTROKE_DRILL groundstroke topspins
+SLICE_GROUNDSTROKE_DRILL slice groundstrokes
+SLICE_GROUNDSTROKE_DRILL slice groundstroke
+SLICE_GROUNDSTROKE_DRILL groundstrokes slices
+SLICE_GROUNDSTROKE_DRILL groundstroke slices
+VOLLEY_DRILL volleys
+BACKHAND_VOLLEY_DRILL backhand volley
+BACKHAND_VOLLEY_DRILL backhand volleys
+BACKHAND_VOLLEY_DRILL volley backhand
+BACKHAND_VOLLEY_DRILL volley backhands
+FOREHAND_VOLLEY_DRILL forehand volley
+FOREHAND_VOLLEY_DRILL forehand volleys
+FOREHAND_VOLLEY_DRILL volley forehand
+FOREHAND_VOLLEY_DRILL volley forehands
+LOB_DRILL lob
+LOB_DRILL lobs
+CARDIO_DRILL cardio
+CARDIO_DRILL workout
+STOP stop
+STOP wait
+STOP wait up
+STOP hang on
+STOP wait a minute
+STOP wait a sec
+START start
+START let's go
+START come on
+START sock it to me
+START hey ho
+START gimme
+FASTER way too slow
+FASTER too slow
+FASTER faster
+FASTER quicker
+FASTER hurry up
+FASTER speed up
+FASTER a bit faster
+FASTER a little bit faster
+FASTER a little faster
+FASTER a litle bit faster
+FASTER a wee bit faster
+FASTER really fast
+MUCH_FASTER faster still
+MUCH_FASTER much faster
+MUCH_FASTER a lot faster
+MUCH_FASTER heaps faster
+MUCH_FASTER heaps fast
+FASTEST fastest
+SLOWER slower
+SLOWER slow down
+SLOWER slow down a bit
+SLOWER a bit slower
+SLOWER a little bit slower
+SLOWER a tiny bit slower
+SLOWER a wee bit slower
+SLOWER gimme a break
+SLOWER give me a break
+SLOWER too fast
+SLOWER way too fast
+MUCH_SLOWER slower still
+MUCH_SLOWER much slower
+MUCH_SLOWER a lot slower
+MUCH_SLOWER heaps slower
+MUCH_SLOWER heaps slow
+MUCH_SLOWER really slow
+MUCH_SLOWER for fuck sake
+MUCH_SLOWER for fuck's sake
+SLOWEST slowest

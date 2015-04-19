@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Voice Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spoken_words">Spoken Words</string>
+</resources>
