@@ -8,7 +8,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
@@ -37,7 +36,6 @@ public class MainActivity extends Activity {
         classificationText = (TextView) findViewById(R.id.classification_text);
         speakButton = (Button) findViewById(R.id.speak_button);
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -69,7 +67,7 @@ public class MainActivity extends Activity {
                 if (!textMatchList.isEmpty()) {
                     StringBuffer inputText = new StringBuffer();
                     for(String word : textMatchList) {
-                        inputText.append(word + " ");
+                        inputText.append(word).append(" ");
                     }
                     spokenWordsText.setText(inputText);
                     if (CommandHelper.isCommand(textMatchList)) {
@@ -123,7 +121,7 @@ public class MainActivity extends Activity {
 
     /**
      * Triggered via btSpeak button onClick - see activity_voice_recognition.xml
-     * @param view
+     * @param view the view
      */
     public void launchSpeechRecogniserActivity(View view) {
         Intent intent = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);

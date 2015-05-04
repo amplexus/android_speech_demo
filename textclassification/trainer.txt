@@ -24,15 +24,6 @@ SLICE_GROUNDSTROKE_DRILL slice groundstrokes
 SLICE_GROUNDSTROKE_DRILL slice groundstroke
 SLICE_GROUNDSTROKE_DRILL groundstrokes slices
 SLICE_GROUNDSTROKE_DRILL groundstroke slices
-VOLLEY_DRILL volleys
-BACKHAND_VOLLEY_DRILL backhand volley
-BACKHAND_VOLLEY_DRILL backhand volleys
-BACKHAND_VOLLEY_DRILL volley backhand
-BACKHAND_VOLLEY_DRILL volley backhands
-FOREHAND_VOLLEY_DRILL forehand volley
-FOREHAND_VOLLEY_DRILL forehand volleys
-FOREHAND_VOLLEY_DRILL volley forehand
-FOREHAND_VOLLEY_DRILL volley forehands
 LOB_DRILL lob
 LOB_DRILL lobs
 CARDIO_DRILL cardio
@@ -87,3 +78,14 @@ MUCH_SLOWER really slow
 MUCH_SLOWER for fuck sake
 MUCH_SLOWER for fuck's sake
 SLOWEST slowest
+VOLLEY_DRILL volleys
+BACKHAND_VOLLEY_DRILL a backhand volley
+BACKHAND_VOLLEY_DRILL backhand volley
+BACKHAND_VOLLEY_DRILL some backhand volleys
+BACKHAND_VOLLEY_DRILL backhand volleys
+BACKHAND_VOLLEY_DRILL volley backhand
+BACKHAND_VOLLEY_DRILL volley backhands
+FOREHAND_VOLLEY_DRILL forehand volley
+FOREHAND_VOLLEY_DRILL forehand volleys
+FOREHAND_VOLLEY_DRILL volley forehand
+FOREHAND_VOLLEY_DRILL volley forehands

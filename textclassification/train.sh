@@ -8,5 +8,5 @@ APACHENLP_HOME=/home/craig/apache-opennlp-1.5.3
 ${APACHENLP_HOME}/bin/opennlp DoccatTrainer -lang en -data ./trainer.txt -model ./trainer.bin
 mv trainer.bin ../app/src/main/res/raw/
 
-# TEST: Input file most contain one "document" at a time...
-#${APACHENLP_HOME}/bin/opennlp Doccat trainer.bin < realdata.txt
+# TEST: Categorises some input text using the model file
+# echo "ok coach gimme some volleys" | opennlp Doccat ../app/src/main/res/raw/trainer.bin
