@@ -17,6 +17,9 @@ buildscript {
 
 allprojects {
     repositories {
-        jcenter()
+      maven {
+        url "http://craigiebabe.net:9081/nexus/content/groups/public"
+      }
+      // jcenter()
     }
 }
