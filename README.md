@@ -18,16 +18,17 @@ The textclassification/trainer.txt file contains the commands you want to train 
 
 The first word of each line is the command. The rest of the text on that line is a way to express that command in natural language.
 
-For example, if you were wanting the Android app to understand directions, you might have a trainer.txt something like
- LEFT Please turn left
- LEFT Turn left
- LEFT go left
- LEFT Turn to the left
- LEFT go left now
- LEFT turn left now
- RIGHT Please turn right
- RIGHT Turn right
- ...
+For example, if you were wanting the Android app to understand directions, you might have a trainer.txt something like:
+
+* LEFT Please turn left
+* LEFT Turn left
+* LEFT go left
+* LEFT Turn to the left
+* LEFT go left now
+* LEFT turn left now
+* RIGHT Please turn right
+* RIGHT Turn right
+* etc
 
 The more text "samples" you have in the trainer.txt file, the better that ApacheNLP can classify it correctly. 
 
